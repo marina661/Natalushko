@@ -1,0 +1,71 @@
+.name{
+
+    text-align: center;
+}
+.cont{
+    background: aqua;
+    /*display: flex;*/
+    /*justify-content: space-evenly;*/
+    /*height: 700px;*/
+}
+.cardddd{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card{
+    width: 410px;
+    height: 410px;
+    background: bisque;
+}
+
+.card2{
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    box-sizing: border-box;
+    background: chartreuse;
+}
+
+
+.fa-star{
+    font-size: 30px;
+    color: blue;
+}
+.quotes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+.text{
+    color:black;
+    box-sizing:border-box;
+    text-align:center;
+    padding: 10px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.img{
+    width: 5px;*/
+    height: 8px;*/
+    /*border-radius: 50%;*/
+}
+
+.desk{
+    height: 10px;
+    color: aquamarine;
+}
+
+.box{
+    width: 150px;
+    height: 25px;
+    background: blue;
+
+    display: flex;
+    justify-content: space-evenly;
+
+}
